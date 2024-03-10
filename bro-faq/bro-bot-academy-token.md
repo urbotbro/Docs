@@ -15,15 +15,20 @@ The BRO token is deployed on the Ethereum network at \
 
 <summary>What are the tokenomics of Bro Bot Academy Token?</summary>
 
-The project launched with a Fair Launch, where 100% of the token supply, totaling 1 million tokens, was added to liquidity right from the start. The tokens are fully circulating and non-dilutive. ( Edit ) \*\*
+Total supply: 1 million BRO tokens. \
+Team allocation: 100,000 tokens with a vesting period of 1 year.\
+Presale allocation: 600,000 tokens distributed through a fair launch.\
+Liquidity pool (LP) allocation: 300,000 tokens.
 
-The buy and sell tax is split 2/4, meaning 2% goes to the liquidity pool upon buying, and upon selling, 4% tax is applied. Out of this 4% sell tax, 2% goes to revenue sharing for holders, and the remaining 2% is allocated to the team.
+45% of bot transaction fees are allocated to the revenue dashboard.\
+2% of the sell tax is directed to the revenue share. \
+2% of the sell tax is allocated to the team and development. \
+2% of the buy tax goes to the liquidity pool.
 
-Additionally, 45% of all bot transaction fees are distributed to holders as revenue sharing.
+For revenue sharing eligibility, users must hold a minimum of 2500 BRO tokens. \
+The eligibility criteria may be subject to change in the future.
 
-There's no staking or lockup requirement; holders simply need to maintain ownership of 10 or more tokens to be eligible for revenue sharing.
-
-Revenue share is distributed in ETH by default.
+A minimum of $10,000 worth of BRO tokens must be sold every 7-hour period.
 
 </details>
 
