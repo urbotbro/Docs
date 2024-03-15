@@ -21,14 +21,14 @@ Presale allocation: 600,000 tokens distributed through a fair launch.\
 Liquidity pool (LP) allocation: 300,000 tokens.
 
 45% of bot transaction fees are allocated to the revenue dashboard.\
-2% of the sell tax is directed to the revenue share. \
+2% of the sell tax is directed to the revenue share pool. \
 2% of the sell tax is allocated to the team and development. \
-2% of the buy tax goes to the liquidity pool.
+2% of the buy tax goes to the liquidity pool injection.
 
-For revenue sharing eligibility, users must hold a minimum of 2500 BRO tokens. \
+For revenue sharing eligibility, users must hold a minimum of 3,000 BRO tokens. \
 The eligibility criteria may be subject to change in the future.
 
-A minimum of $10,000 worth of BRO tokens must be sold every 7-hour period.
+A max of total 18,000 tokens limit can be sold for every 7-hour period. Failure to do so will have recent reward being forfeited.
 
 </details>
 
@@ -36,7 +36,7 @@ A minimum of $10,000 worth of BRO tokens must be sold every 7-hour period.
 
 <summary>What are the benefits of holding Bro Bot Academy Token?</summary>
 
-Holding 10 or more Bro Tokens grants you access to several benefits:
+Holding 3,000 or more Bro Tokens grants you access to several benefits:
 
 1. Eligibility for revenue sharing.
 2. Access to our Telegram holders' channel, where you can engage in discussions about alpha strategies, suggest new features, and utilize a dedicated support channel.
