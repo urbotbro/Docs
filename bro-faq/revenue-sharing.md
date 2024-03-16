@@ -1,7 +1,5 @@
 # 💰 Revenue Sharing
 
-
-
 <details>
 
 <summary><strong>How does revenue sharing work?</strong></summary>
@@ -19,7 +17,7 @@
 <summary><strong>What is my revenue share comprised of?</strong></summary>
 
 * 40% of all bot transaction fees incurred.
-* 2% of all BRO TOKEN volume traded.
+* 2% of all BRO TOKEN volume sell traded.
 * Must hold at least 3,000 $BRO tokens in-order to get revenue share.
 
 </details>
@@ -28,7 +26,7 @@
 
 <summary>How do I claim my revenue sharing rewards?</summary>
 
-To claim your pending rewards, connect your wallet at the rewards dashboard.
+To claim your pending rewards, connect your wallet at the rewards dashboard. Do note you can only claim your rewards if it's worth above 0.1 Eth, button would be disabled for claim if any value is below 0.1 Eth.
 
 </details>
 
