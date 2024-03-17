@@ -38,7 +38,7 @@ Every block, limit orders undergo trigger checks by computing the USD price of t
 ### Interface
 
 {% tabs %}
-{% tab title="Telegram Bot " %}
+{% tab title="Bro Bot" %}
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Main screen (no token address entered)</p></figcaption></figure>
 
 * **Token** - The contract address of the token you intend to limit buy.&#x20;
