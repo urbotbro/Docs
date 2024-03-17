@@ -4,9 +4,9 @@
 
 <details>
 
-<summary><strong>What are the fees for using Bro Token?</strong></summary>
+<summary><strong>What are the fees for using BroBot Sniper?</strong></summary>
 
-* Transactions through Bro Token incur a fee ranging from 0.5% to 1%.&#x20;
+* Transactions through BroBot are currently at 0% (tbd in future from 0.5 to 1% after launch)
 * The default fee is set at 1%; however, you have the opportunity to decrease your fees by up to 50% via our Loyalty Program.
 
 </details>
@@ -15,7 +15,7 @@
 
 <summary><strong>How are fees deducted?</strong></summary>
 
-Whenever you engage in trading via Bro Token, your trading wallets interact with the Bro Token router contract. When purchasing a token, the router contract deducts the fee from your ETH input amount. Conversely, when selling a token, the fee is subtracted from your ETH output amount.
+Whenever you engage in trading via BroBot, your trading wallets interact with the Bro router contract. When purchasing a token, the router contract deducts the fee from your ETH input amount. Conversely, when selling a token, the fee is subtracted from your ETH output amount.
 
 </details>
 

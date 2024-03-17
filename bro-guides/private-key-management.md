@@ -12,7 +12,9 @@ Transferring ETH & tokens is only available through the Telegram Bot. This funct
 
 ### Securing your keys
 
-* <mark style="color:orange;">You must remember your private keys and store it safely written somewhere. There is no password recovery process if you forget.</mark>&#x20;
+{% hint style="warning" %}
+<mark style="color:orange;">**You must remember your private keys and store it safely written somewhere. There is no password recovery process if you forget.**</mark>&#x20;
+{% endhint %}
 
 ### **Interface**
 

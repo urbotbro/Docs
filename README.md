@@ -10,7 +10,7 @@ description: >-
 🎉**Bro Bot  has arrived!** We've unveiled our integrated trading terminal, Bro Bot , to the public. Check out the following 3-minute video to discover the exciting features Bro Bot brings to the table.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/ffffff.png" alt=""><figcaption><p>Bro Bot X</p></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2024-03-17_20-03-42.jpg" alt="" width="375"><figcaption><p>Bro Bot X</p></figcaption></figure>
 
 ***
 
@@ -24,7 +24,9 @@ Begin trading in just a few minutes by following our [First-Time User](bro-guide
 
 Our team is committed solely to crafting premium trading tools for Ethereum. Elevate your trading experience with Bro Bot, accessible for free!
 
-{% embed url="https://t.me/RevoluzionAI_Bot" %}
+{% embed url="https://t.me/snipewithbro_bot" %}
+Bro Bot Link
+{% endembed %}
 
 ***
 

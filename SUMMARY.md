@@ -15,7 +15,6 @@
 * [🦹‍♂️ BRO First-Time ](bro-guides/bro-first-time.md)
 * [🥂 Transfer ETH & Tokens](bro-guides/transfer-eth-and-tokens.md)
 * [🔑 Private Key Management](bro-guides/private-key-management.md)
-* [🔗 Link Wallet For Holder Benefits](bro-guides/link-wallet-for-holder-benefits.md)
 * [⛽ Adaptive Gas](bro-guides/adaptive-gas.md)
 
 ## BRO TOKEN TRADING

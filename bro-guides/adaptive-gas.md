@@ -1,16 +1,18 @@
 # ⛽ Adaptive Gas
 
-
+{% hint style="info" %}
+Do note that customize adaptive gas is currently still in development.
+{% endhint %}
 
 {% hint style="info" %}
-Bro Token offers 3 gas strategies that dynamically adjust to other transactions on the network, guaranteeing that Bro Token user transactions are successful without paying excessive gas fees.
+Bro Bot offers 3 gas strategies that dynamically adjust to other transactions on the network, guaranteeing that Bro Token user transactions are successful without paying excessive gas fees.
 {% endhint %}
 
 {% hint style="info" %}
 The **Smart strategy** is the recommended option for most users and is selected by default.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ffffff.png" alt=""><figcaption><p>Adaptive Gas Tutorial</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2024-03-17_20-03-34.jpg" alt="" width="375"><figcaption><p>Adaptive Gas Tutorial</p></figcaption></figure>
 
 ### FAQ
 
@@ -42,15 +44,11 @@ With the introduction of EIP-1559, the Ethereum network implemented the concept 
 You can locate the **Gas Settings** within the Buy or Sell menus in the Telegram bot.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ffffff.png" alt=""><figcaption><p>Gas Setting</p></figcaption></figure>
-
 * Selecting any option between Eco, Smart, or Aggr will update your gas strategy to the chosen option.
 * &#x20;Choosing Tip will prompt you to enter a custom tip amount, which will be added on top of your selected gas strategy.&#x20;
 * Selecting Info displays the Info Summary below.
 
 ***
-
-<figure><img src="../.gitbook/assets/ffffff.png" alt=""><figcaption><p>Gas Info Summary</p></figcaption></figure>
 
 The Info Summary includes the following details:
 

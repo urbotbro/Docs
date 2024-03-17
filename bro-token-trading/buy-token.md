@@ -68,11 +68,12 @@ In Easy Mode, transactions are sent privately by default.
 {% endtab %}
 
 {% tab title="Bro Bot " %}
-<figure><img src="../.gitbook/assets/fff&#x26;text=Coming+Soon.png" alt=""><figcaption><p>Buy panel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-18 015209.png" alt="" width="329"><figcaption><p>Buy panel</p></figcaption></figure>
 
-* **PAY** - The amount of ETH you would like to swap with. Upon entering, the transaction will be simulated to estimate the amount you will receive.
-* **RECEIVE** - The address of the token you are buying.
-* **Buy Settings** - an expandable panel that reveals additional buy settings you can configure.
+* **Select Wallet -** Click on the wallet you want to use to make the purchase either w1 w2 or w3.
+* **ETH**- The amount of ETH you would like to swap with. Upon entering, the transaction will be simulated to estimate the amount you will receive.
+* **Click to enter Token Address** - The address of the token you are buying.
+* **Paste token address -** Paste the token address you want to buy for example 0x...
 
 ***
 
