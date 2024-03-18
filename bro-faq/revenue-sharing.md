@@ -4,10 +4,10 @@
 
 <summary><strong>How does revenue sharing work?</strong></summary>
 
-* To be eligible for rewards, you must hold a minimum of 3,000 Bro Token. There's no staking or lockup requirement; simply keep the tokens in your wallet.
+* To be eligible for rewards, you must hold a minimum of 50 Bro Token. There's no staking or lockup requirement; simply keep the tokens in your wallet.
 * Revenue shares are distributed in ETH by default.
 * To claim rewards, you need to accumulate a minimum of 0.1 ETH to be able to claim your rewards.
-* You can sell or transfer up to 18,000 Bro Tokens every reward epoch (7 hours) without penalty. If you exceed this amount, all unclaimed rewards will be forfeited back into the rewards pool. Note that upon first txn it will claim remaining rewards, only there after rewards will be forfeited if exceeds the requirement.
+* You can sell or transfer up to 250 Bro Tokens every reward epoch (7 hours) without penalty. If you exceed this amount, all unclaimed rewards will be forfeited back into the rewards pool. Note that upon first txn it will claim remaining rewards, only there after rewards will be forfeited if exceeds the requirement.
 * To claim your rewards, connect your wallet to the rewards dashboard and click claim rewards button to claim your rewards.
 
 </details>
@@ -16,9 +16,9 @@
 
 <summary><strong>What is my revenue share comprised of?</strong></summary>
 
-* 40% of all bot transaction fees incurred.
+* 45% of all bot transaction fees incurred.
 * 2% of all BRO TOKEN volume sell traded.
-* Must hold at least 3,000 $BRO tokens in-order to get revenue share.
+* Must hold at least 50 $BRO tokens in-order to get revenue share.
 
 </details>
 
