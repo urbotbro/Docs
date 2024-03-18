@@ -45,7 +45,7 @@ In the event of both Token Sniper and Auto Sniper being active, Token Sniper wil
 
 ### How to access
 
-1. `/menu` in the [Telegram bot](https://t.me/RevoluzionAI\_Bot).
+1. `/menu` in the [Telegram bot](https://t.me/snipewithbro\_Bot).
 2. Click `Snipers (ERC-20)`.
 3. Choose between `Token Sniper` or `Auto Sniper`.
 
