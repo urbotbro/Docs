@@ -26,7 +26,7 @@ Liquidity pool (LP) allocation: 300,000 tokens.
 2% of the sell tax is allocated to the team and development. \
 2% of the buy tax goes to the liquidity pool injection.
 
-For revenue sharing eligibility, users must hold a minimum of 3,000 BRO tokens. \
+For revenue sharing eligibility, users must hold a minimum of 50 BRO tokens. \
 The eligibility criteria may be subject to change in the future.
 
 A max of total 250 tokens limit can be sold for every 7-hour period. Failure to do so will have recent reward being forfeited.
