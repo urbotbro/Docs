@@ -17,7 +17,7 @@ The BRO token is deployed on the Ethereum network at : [https://etherscan.io/add
 <summary>What are the tokenomics of Bro Bot Academy Token?</summary>
 
 Total supply: 1 million BRO tokens. \
-Team allocation: 80,000 tokens with a vesting period of 1 year.\
+Team allocation: 80,000 tokens with a vesting period of 2 year.\
 Presale allocation: 830,000 tokens distributed through a fair launch.\
 Liquidity pool (LP) allocation: 90,000 tokens.
 
