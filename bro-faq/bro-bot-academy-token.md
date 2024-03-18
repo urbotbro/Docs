@@ -29,7 +29,7 @@ Liquidity pool (LP) allocation: 300,000 tokens.
 For revenue sharing eligibility, users must hold a minimum of 3,000 BRO tokens. \
 The eligibility criteria may be subject to change in the future.
 
-A max of total 18,000 tokens limit can be sold for every 7-hour period. Failure to do so will have recent reward being forfeited.
+A max of total 250 tokens limit can be sold for every 7-hour period. Failure to do so will have recent reward being forfeited.
 
 </details>
 
@@ -37,7 +37,7 @@ A max of total 18,000 tokens limit can be sold for every 7-hour period. Failure 
 
 <summary>What are the benefits of holding Bro Bot Academy Token?</summary>
 
-Holding 3,000 or more Bro Tokens grants you access to several benefits:
+Holding 50 or more Bro Tokens grants you access to several benefits:
 
 1. Eligibility for revenue sharing.
 2. Access to our Telegram holders' channel, where you can engage in discussions about alpha strategies, suggest new features, and utilize a dedicated support channel.
