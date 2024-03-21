@@ -20,11 +20,11 @@ Total supply: 1 million BRO tokens. \
 
 Team allocation: 100,000 tokens 5% is locked for eight years, with gradual access over three years and includes revenue sharing, ensuring long-term project commitment. Another 5% is held for two years, then released gradually over three years, without revenue sharing, to balance team motivation with financial rewards.\
 
-Presale Fair Launch allocation: 233500 tokens distributed through a fair launch.\
+Presale Fair Launch allocation: 168,407 tokens distributed through a fair launch.\
 
-Liquidity pool (LP) allocation: 17000 tokens.Secured in liquidity pools and locked for 2 years to ensure stable market conditions
+Liquidity pool (LP) allocation: 81,593 tokens.Secured in liquidity pools and locked for 2 years to ensure stable market conditions
 
-Treasury (Locked): 649500 token - Primarily allocated for BRO Bonus emissions with a 2-year linear vesting period. Tokens are unlocked every 3 months, but any that aren't needed get locked up again, demonstrating a prudent and sustainable approach to token emissions and project financing.
+Treasury (Locked): 650000 token - Primarily allocated for BRO Bonus emissions with a 2-year linear vesting period. Tokens are unlocked every 3 months, but any that aren't needed get locked up again, demonstrating a prudent and sustainable approach to token emissions and project financing.
 
 
 45% of bot transaction fees are allocated to the revenue dashboard.\
