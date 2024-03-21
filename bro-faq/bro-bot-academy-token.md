@@ -18,13 +18,13 @@ The BRO token is deployed on the Ethereum network at : [https://etherscan.io/add
 
 Total supply: 1 million BRO tokens. \
 
-Team allocation: 100,000 tokens 5% is locked for eight years, with gradual access over three years and includes revenue sharing, ensuring long-term project commitment. Another 5% is held for two years, then released gradually over three years, without revenue sharing, to balance team motivation with financial rewards.\
+Team allocation: 100,000 tokens locked for 5 years without revenue sharing for motivation.released quatarly every year.\
 
 Presale Fair Launch allocation: 168,407 tokens distributed through a fair launch.\
 
-Liquidity pool (LP) allocation: 81,593 tokens.Secured in liquidity pools and locked for 2 years to ensure stable market conditions
+Liquidity pool (LP) allocation: 81,593 tokens.Secured in liquidity pools and locked for 1 years to ensure stable market conditions
 
-Treasury (Locked): 650000 token - Primarily allocated for BRO Bonus emissions with a 2-year linear vesting period. Tokens are unlocked every 3 months, but any that aren't needed get locked up again, demonstrating a prudent and sustainable approach to token emissions and project financing.
+Treasury (Locked): 650000 token - locked for 5 years without revenue sharing for motivation.
 
 
 45% of bot transaction fees are allocated to the revenue dashboard.\
